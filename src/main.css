@@ -1,0 +1,18 @@
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.item{
+    margin: 1rem 0;
+}
+.card{
+    max-width: 400px;
+}
+.img-respons{
+    width: 100%;
+}
+
+.mt50{
+    margin-top: 50px;
+}
