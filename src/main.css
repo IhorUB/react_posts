@@ -16,3 +16,23 @@
 .mt50{
     margin-top: 50px;
 }
+
+/* post page */
+.post-comments .jumbotron .comment-wrap{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: relative;
+}
+.post-comments .jumbotron .comment-wrap .user-icon{
+    flex: 1;
+}
+.post-comments .jumbotron .comment-wrap .body-comment{
+    flex: 2;
+    margin-left: 2rem;
+}
+.post-comments .jumbotron .comment-wrap .body-comment span {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+}
