@@ -8,6 +8,7 @@
     "history": "^4.9.0",
     "ramda": "^0.26.1",
     "react": "^16.8.6",
+    "react-commentbox": "^3.0.1",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
     "react-router": "^5.0.1",
@@ -16,6 +17,8 @@
     "redux": "^4.0.1",
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
+    "showdown": "^1.9.0",
+    "simple-react-comments": "^1.1.0",
     "superagent": "^5.1.0"
   },
   "scripts": {

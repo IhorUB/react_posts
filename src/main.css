@@ -1,3 +1,6 @@
+#root {
+    background: #ccc;
+}
 .wrapper{
     display: flex;
     justify-content: space-between;
@@ -8,13 +11,13 @@
 }
 .card{
     max-width: 400px;
+    background: #fff;
+}
+.card .card-body {
+    padding: 2rem;
 }
 .img-respons{
     width: 100%;
-}
-
-.mt50{
-    margin-top: 50px;
 }
 
 /* post page */
